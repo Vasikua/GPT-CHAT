@@ -11,7 +11,7 @@ const Menu = () => {
         <a href="#home">Home</a>
       </p>
       <p>
-        <a href="wGPT3">What GPT3</a>
+        <a href="#wgpt3">What GPT3</a>
       </p>
       <p>
         <a href="#possibility">Open AI</a>
@@ -68,7 +68,6 @@ const Navbar = () => {
               <div className="gpt3__navbar-menu_container-links-sign">
                 <p>Sing in</p>
                 <button type="button" className="buttonSing">
-                  {" "}
                   Sing up
                 </button>
               </div>
